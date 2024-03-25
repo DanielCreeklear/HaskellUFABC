@@ -1,10 +1,10 @@
 cabal-version:       2.2
 
-name:                tutorial-tipos-dados-algebricos-01
+name:                tutorial-tipos-dados-algebricos-funcionarios
 version:             0.1.0.0
 -- synopsis:
 -- description:
-homepage:            https://github.com/githubuser/tutorial-tipos-dados-algebricos-01#readme
+homepage:            https://github.com/githubuser/tutorial-tipos-dados-algebricos-funcionarios#readme
 license:             BSD-3-Clause
 license-file:        LICENSE
 author:              Author name here
@@ -15,7 +15,7 @@ build-type:          Simple
 extra-source-files:  README.md
                      CHANGELOG.md
 
-executable tutorial-tipos-dados-algebricos-01
+executable tutorial-tipos-dados-algebricos-funcionarios
   hs-source-dirs:      src
   main-is:             Main.hs
   default-language:    Haskell2010

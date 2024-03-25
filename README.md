@@ -33,14 +33,14 @@ git clone https://github.com/DanielCreeklear/HaskellUFABC
 Navegue até o diretório do projeto e compile o código Haskell usando o Stack:
 
 ```bash
-cd HaskellUFABC/Trabalhos/tutorial-tipos-dados-algebricos-01
+cd HaskellUFABC/Trabalhos/tutorial-tipos-dados-algebricos-funcionarios
 stack build
 ```
 
 Isso compilará o código, mas não o executará. Para executar o projeto após compilar, use:
 
 ```bash
-stack exec tutorial-tipos-dados-algebricos-01
+stack exec tutorial-tipos-dados-algebricos-funcionarios
 ```
 
 Isso executará o programa Haskell e mostrará a saída no terminal, incluindo os salários totais de cada funcionário.
