@@ -1,4 +1,4 @@
-# Changelog for `tutorial-tipos-dados-algebricos`
+# Changelog for `tutorial-tipos-dados-algebricos-01`
 
 All notable changes to this project will be documented in this file.
 
